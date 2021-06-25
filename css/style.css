@@ -1,0 +1,91 @@
+h1{
+	color: blue; background-color: silver;
+}
+
+p{border: 2px dotted blue;
+
+}
+
+p{color: white}
+
+h2{
+	color: white; 
+}
+
+h3{
+    color: white;
+}
+
+h4{
+    color: white; 
+}
+
+h5{
+	color: white; 
+}
+
+h6{
+	color: white; 
+}
+
+.yellow{
+	color: yellow;
+}
+
+.images{
+	width: 400px;
+	height: auto;
+}
+
+.red{
+	color: red;
+}
+
+.header{
+	background-color: white;
+	min-height: 10px;
+}
+
+.container{
+	overflow: hidden;
+	border: 5px solid skyblue;
+}
+.blog{
+	float: left;
+	width: 60%;
+	min-height: 50px;
+	background-color: blue;
+}
+.contact{
+	float: right;
+	width: 40%;
+	min-height: 50px;
+	background-color: springgreen;
+}
+
+.footer{
+	min-height: 50px;
+	background-color: green;
+}
+
+
+.wrapper{
+	overflow: hidden;
+}
+.single{
+	width: 33.33%;
+	float: left;
+	min-height: 50px;
+}
+.red{
+	width: 20%;
+	background-color: red;
+}
+.yellow{
+	width: 60%;
+	background-color: yellow;
+}
+.lime{
+	width: 20%;
+	background-color: lime;
+}
